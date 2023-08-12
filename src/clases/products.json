@@ -1,0 +1,74 @@
+[
+	{
+		"title": "DJI Mavic Air 2",
+		"description": "Dron con cámara 4K y 34 minutos de vuelo.",
+		"price": 799,
+		"thumbnail": "dji_mavic_air2.jpg",
+		"code": "DRN005",
+		"stock": 10,
+		"id": 10
+	},
+	{
+		"title": "Samsung Galaxy Watch 4",
+		"description": "Smartwatch con medición de oxígeno en sangre.",
+		"price": 299,
+		"thumbnail": "samsung_galaxy_watch4.jpg",
+		"code": "WCH006",
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"title": "Sony Alpha A7 III",
+		"description": "Cámara s/espejo c/fotograma completo de 24 MP.",
+		"price": 1999,
+		"thumbnail": "sony_alpha_a7iii.jpg",
+		"code": "CMA007",
+		"stock": 5,
+		"id": 3
+	},
+	{
+		"title": "Bose QuietComfort 35 II",
+		"description": "Auriculares inalámbricos c/cancelación de ruido.",
+		"price": 299,
+		"thumbnail": "bose_quietcomfort35ii.jpg",
+		"code": "AU008",
+		"stock": 50,
+		"id": 4
+	},
+	{
+		"title": "LG OLED CX",
+		"description": "Televisor OLED 4K Ultra HD de 65 pulgadas.",
+		"price": 1999,
+		"thumbnail": "lg_oled_cx.jpg",
+		"code": "TV009",
+		"stock": 8,
+		"id": 75
+	},
+	{
+		"title": "Apple iPad Air",
+		"description": "Pantalla Retina de 10.9 pulgadas y chip A14 Bionic.",
+		"price": 599,
+		"thumbnail": "apple_ipad_air.jpg",
+		"code": "TAB010",
+		"stock": 12,
+		"id": 170
+	},
+	{
+		"title": "Canon EOS 90D",
+		"description": "Cámara réflex digital de 32.5 MP c/video 4K.",
+		"price": 1199,
+		"thumbnail": "canon_eos_90d.jpg",
+		"code": "CMA011",
+		"stock": 7,
+		"id": 12
+	},
+	{
+		"title": "Bose SoundLink Revolve+",
+		"description": "Altavoz Bluetooth portátil c/sonido de 360°.",
+		"price": 299,
+		"thumbnail": "bose_soundlink_revolveplus.jpg",
+		"code": "ALT012",
+		"stock": 15,
+		"id": 26
+	}
+]
